@@ -4,16 +4,43 @@
     
     mkdir DL_PJ_1/TEST5
     
+    cp D:/whr_laptop/2023Summer/TEST/4thGrade_a/DL_pragmatic/DL_PJ1/README_SUMMARY/README0.md DL_PJ_1
+    cp D:/whr_laptop/2023Summer/TEST/4thGrade_a/DL_pragmatic/DL_PJ1/README_SUMMARY/img_3.png DL_PJ_1/TEST2
     cp D:/whr_laptop/2023Summer/TEST/4thGrade_a/DL_pragmatic/DL_PJ1/README_SUMMARY/SUMMARY.md DL_PJ_1/TEST5
     cp D:/whr_laptop/2023Summer/TEST/4thGrade_a/DL_pragmatic/DL_PJ1/TEST4/20231017_stock.py D:/whr_laptop/2023Summer/TEST/4thGrade_a/DL_pragmatic/DL_PJ1/TEST4/main_window_2.py D:/whr_laptop/2023Summer/TEST/4thGrade_a/DL_pragmatic/DL_PJ1/TEST4/STOCK_APP.png DL_PJ_1/TEST4
     
+    git add DL_PJ_1
     git add DL_PJ_1/TEST5
     git add DL_PJ_1/TEST4
     
+    git commit -m"Added to DL_PJ_1 folder"
     git commit -m"Added to DL_PJ_1/TEST5 folder"
     git commit -m"Added to DL_PJ_1/TEST4 folder"
     
     git push origin main
+
+### 用git bash 删除github中的文件（假设你已经克隆repository到本地）
+
+**导航到你的仓库目录**：
+   ```
+   cd C:/Users/WHR/ustc-whr.github.io
+   ```
+**删除 .gitkeep 文件**：
+   ```
+   rm DL_PJ_1/.gitkeep
+   ```
+**将更改添加到 Git**：
+   ```
+   git add DL_PJ_1/.gitkeep
+   ```
+**提交你的更改**：
+   ```
+   git commit -m "删除 .gitkeep 文件"
+   ```
+**将更改推送到 GitHub**：
+   ```
+   git push origin main
+   ```
 
 # 将.ui文件转化为.py文件
 
