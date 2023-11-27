@@ -1,0 +1,101 @@
+排名	姓名.中文.	姓名.英文.	财富值.十亿美元.	财富来源
+1	杰夫·贝索斯	Jeff Bezos	131	亚马逊
+2	比尔·盖茨	Bill Gates	96.5	微软
+3	沃伦·巴菲特	Warren Buffett	82.5	伯克希尔哈撒韦
+4	伯纳德·阿诺特	Bernard Arnault	76	奢侈品
+5	卡洛斯·斯利姆·埃卢	Carlos Slim Helu	64	电信
+6	阿曼西奥·奥特加	Amancio Ortega	62.7	Zara
+7	拉里·埃里森	Larry Ellison	62.5	软件
+8	马克·扎克伯格	Mark Zuckerberg	62.3	Facebook
+9	迈克尔·布隆伯格	Michael Bloomberg	55.5	彭博
+10	拉里·佩奇	Larry Page	50.8	谷歌
+11	查尔斯·科赫	Charles Koch	50.5	科氏工业
+11	大卫·科赫	David Koch	50.5	科氏工业
+13	穆克什·安巴尼	Mukesh Ambani	50	石化,油气
+14	谢尔盖·布林	Sergey Brin	49.8	谷歌
+15	弗朗索瓦丝·贝当古·迈耶斯	Francoise Bettencourt Meyers	49.3	欧莱雅
+16	吉姆·沃尔顿	Jim Walton	44.6	沃尔玛
+17	艾丽斯·沃尔顿	Alice Walton	44.4	沃尔玛
+18	罗伯·沃尔顿	Rob Walton	44.3	沃尔玛
+19	史蒂夫·鲍尔默	Steve Ballmer	41.2	微软
+20	马化腾	Ma Huateng	38.8	社交媒体
+21	马云	Jack Ma	37.3	电商
+22	许家印	Hui Ka Yan	36.2	房地产
+23	贝亚特·海斯特和小卡尔·阿尔布雷希特	Beate Heister & Karl Albrecht Jr.	36.1	超市
+24	谢尔登·阿德尔森	Sheldon Adelson	35.1	博彩
+25	迈克尔·戴尔	Michael Dell	34.3	戴尔电脑
+26	菲尔·耐特	Phil Knight	33.4	耐克
+27	大卫·汤姆森	David Thomson	32.5	媒体
+28	李嘉诚	Li Ka-shing	31.7	多元化经营
+29	李兆基	Lee Shau Kee	30.1	房地产
+30	弗朗索瓦·皮诺特	Francois Pinault	29.7	奢侈品
+31	约瑟夫·萨夫拉	Joseph Safra	25.2	银行业
+32	列昂尼德·米赫尔松	Leonid Mikhelson	24	天然气,化工
+33	杰奎琳·马尔斯	Jacqueline Mars	23.9	糖果,宠物食品
+33	约翰·马尔斯	John Mars	23.9	糖果,宠物食品
+35	豪尔赫·保罗·雷曼	Jorge Paulo Lemann	22.8	啤酒
+36	王健林	Wang Jianlin	22.6	房地产
+36	阿齐姆·普莱姆基	Azim Premji	22.6	软件服务
+36	迪特尔·施瓦茨	Dieter Schwarz	22.6	零售
+39	乔瓦尼·费列罗	Giovannic Ferrero	22.4	Nutella,巧克力
+40	埃隆·马斯克	Elon Musk	22.3	特斯拉汽车,SpaceX
+41	柳井正	Tadashi Yanai	22.2	时尚零售
+42	杨惠妍	Yang Huiyan	22.1	房地产
+43	孙正义	Masayoshi Son	21.6	互联网,电信
+44	吉姆·西蒙斯	Jim Simons	21.5	对冲基金
+45	弗拉基米尔·利辛	Vladimir Lisin	21.3	钢铁,交通运输
+46	苏珊娜·克拉腾	Susanne Klatten	21	BMW,制药
+47	瓦吉特·阿列克佩罗夫	Vagit Alekperov	20.7	石油
+48	阿列克谢·莫尔达索夫	Alexey Mordashov	20.5	钢铁,投资
+49	格纳迪·季姆琴科	Gennady Timchenko	20.1	油气
+50	何享健	He Xiangjian	19.8	家用电器
+50	莱昂纳多·戴尔·维吉奥	Leonardoc Del Vecchio	19.8	眼镜
+52	鲁珀特·默多克	Rupert Murdoch	19.4	报纸,电视网
+53	迪特里希·梅特舒兹	Dietrich Mateschitz	18.9	红牛
+54	劳伦娜·鲍威尔·乔布斯	Laurene Powell Jobs	18.6	苹果,迪士尼
+54	黄惠忠	R. Budi Hartono	18.6	银行业,烟草
+56	黄惠祥	Michael Hartono	18.5	银行业,烟草
+57	雷伊·达里奥	Ray Dalio	18.4	对冲基金
+58	弗拉基米尔·波塔宁	Vladimir Potanin	18.1	金属
+59	莱恩·布拉瓦特尼克	Len Blavatnik	17.7	多元化经营
+60	斯特芬·科万特	Stefan Quandt	17.5	BMW
+61	卡尔·伊坎	Carl Icahn	17.4	投资
+61	西奥·阿尔布雷希特	Theo Albrecht	17.4	Aldi,Trader Joe’s
+63	托马斯·彼得菲	Thomas Peterffy	17.1	折扣经纪
+63	李文达	Lee Man Tat	17.1	蚝油,房地产
+65	刘銮雄	Joseph Lau	16.9	房地产
+65	欣杜贾兄弟	Hinduja brothers	16.9	多元化经营
+65	李健熙	Lee Kun-Hee	16.9	三星
+68	唐纳德·布伦	Donald Bren	16.4	房地产
+69	滝崎武光	Takemitsu Takizaki	16.3	传感器
+70	张一鸣	Zhang Yiming	16.2	软件
+71	阿比盖尔·约翰逊	Abigail Johnson	15.6	资金管理
+71	斯蒂芬·佩尔森	Stefan Persson	15.6	H&M
+73	皮特·凯尔纳	Petr Kellner	15.5	银行业
+74	伊里斯·冯特博纳	Iris Fontbona	15.4	矿业
+75	卢卡斯·沃尔顿	Lukas Walton	15.2	沃尔玛
+75	谢国民	Dhanin Chearavanont	15.2	多元化经营
+75	吉娜·莱因哈特	Gina Rinehart	15.2	矿业
+78	邝肖卿	Kwong Siu-hing	15.1	房地产
+79	米哈伊尔·弗里德曼	Mikhail Fridman	15	石油,银行业,电信
+79	帕朗吉·密斯特里	Pallonji Mistry	15	建筑施工
+81	丁磊	William Ding	14.7	在线游戏
+82	伦纳德·劳德	Leonard Lauder	14.6	雅诗兰黛
+82	呂志和	Lui Che Woo	14.6	博彩,酒店
+82	希夫·纳达尔	Shiv Nadar	14.6	软件服务
+82	阿兰·韦特海默	Alain Wertheimer	14.6	香奈儿
+82	杰拉德·韦特海默	Gerard Wertheimer	14.6	香奈儿
+87	苏旭明	Charoen Sirivadhanabhakdi	14.5	酒精,房地产
+88	伊曼纽尔·贝尼耶	Emmanuel Besnier	14.3	奶酪
+89	夏琳德·卡瓦略-海内肯	Charlenede Carvalho-Heineken	14.2	Heineken
+90	安德烈·梅尔尼琴科	Andrey Melnichenko	13.8	煤炭,肥料
+91	李书福	Li Shufu	13.6	汽车
+91	拉克希米·米塔尔	Lakshmi Mittal	13.6	钢铁
+91	海因茨·赫尔曼·蒂勒	Heinz Hermann Thiele	13.6	制动产品
+94	黄峥	Colin Huang	13.5	电商
+94	哈索·普拉特纳	Hasso Plattner	13.5	软件
+96	迪特马尔·霍普	Dietmar Hopp	13.4	软件
+96	格奥尔格·舍弗勒	Georg Schaeffler	13.4	汽车零部件
+98	张志东	Zhang Zhidong	13.3	社交媒体
+98	格尔曼·拉利阿·莫塔·维拉斯科	German Larrea Mota Velasco	13.3	矿业
+100	史蒂芬·施瓦茨曼	Stephen Schwarzman	13.2	投资
